@@ -1,5 +1,7 @@
 
 # Sequences---Arithmetic-and-Geometric
+![Java Sequences](https://user-images.githubusercontent.com/98252856/154450248-c7b0218b-077d-47e4-a823-5241d183c73b.png)
+
 A fun mini project in Java.\
 Uses Interface, Sorting, Inheritance, and other OOP concepts
 
