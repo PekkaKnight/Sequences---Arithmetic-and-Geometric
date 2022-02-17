@@ -1,3 +1,4 @@
+
 # Sequences---Arithmetic-and-Geometric
 A fun mini project in Java.\
 Uses Interface, Sorting, Inheritance, and other OOP concepts
