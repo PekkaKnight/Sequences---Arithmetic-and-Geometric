@@ -5,7 +5,7 @@ public class Main {
         int[] arr = {3, 6, 12, 24, 48};   //Array can be whatever you want. Insertion Sort changes into ascending order no matter what
         Sequence test  = new Sequence(arr);
         Internal test2 = new Internal(arr);
-        test.print();   //Prints out thr array
+        test.print();   //Prints out the array
         if(test.isArithmetic() == true){
             System.out.println("The sequence is " + test.specifySequence() + " and " + "the Common Difference is " + test2.getCommonDifference());
         }
