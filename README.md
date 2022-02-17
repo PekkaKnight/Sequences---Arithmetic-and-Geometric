@@ -1,5 +1,5 @@
 # Sequences---Arithmetic-and-Geometric
-A fun mini project in Java. 
+A fun mini project in Java. \n
 Uses Interface, Insertion Sort, Inheritance, and other OOP concepts
 
 ## About this project:
