@@ -15,7 +15,7 @@ We finally have a String method to setup the behaviour for the type.
 Our second part is the parent class, Sequence, which implements Initialize, which is our interface. For the instance variable, I made a protected array of integers. I made it protected, so that that our subclass, which is in the third part, can build on the variable.\
 Our constructor will take in our protected instance variable and then use insertion sort in order to sort our array of random order into ascending order.\
 We can see that this has formed a sequence that is in increasing manner.\
-After that, we have implemented the interface and written the methods that we were supposed to right, including a void method that I used so that the array is only printed once.
+After that, we have implemented the interface and written the methods that we were supposed to write, including a void method that I used so that the array is only printed once.
 #### Third Part:
 Our third part is the child class. The child class, Internal, will extend our Parent Class, Sequence.\
 Now, we have all the methods that we need and some additionals.\
@@ -28,4 +28,5 @@ In the main method, I created instances of both the parent and child class, so t
 If the sequence is Arithmetic, then return the name of the sequence, and then the common differene.\
 If the sequence is Geometric, then return the name of the sequence, and then the common ratio.\
 Otherwise, print that it is neither Arithmetic or Geometric at the same time
-
+#### Note:
+Interface might have not been neccessary, however, since I'm new to the concept of interfaces, I did this as a practice type...
