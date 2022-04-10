@@ -38,10 +38,10 @@ public class Sequence implements Initialize{
     public String specifySequence(){
         boolean geo = isGeometric();
         boolean arith = isArithmetic();
-        if(geo == true){
+        if(geo){
             return "Geometric";
         }
-        else if(arith == true){
+        else if(arith){
             return "Arithmetic";
         }
         return "neither";
